@@ -15,3 +15,9 @@
  */
 
 /*= require foundation
+
+*/
+
+.foundation-data-attribute-namespace {
+    font-family: false;
+}
