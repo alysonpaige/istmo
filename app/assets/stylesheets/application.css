@@ -14,8 +14,12 @@
  *= require_self
  */
 
-/*= require foundation
+/*
+ *= require foundation
+*/
 
+/*
+ *= require font-awesome
 */
 
 .foundation-data-attribute-namespace {
