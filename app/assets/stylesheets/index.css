@@ -17,8 +17,8 @@
 .hero-section .hero-section-text {
   color: #fefefe;
   background: rgba(0,0,0,0.5);
+  border-radius: 3px;
 }
-
 
 .product-feature-section {
   background: #e6e6e6;
