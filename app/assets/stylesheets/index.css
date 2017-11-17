@@ -63,6 +63,7 @@
   -webkit-justify-content: center;
       -ms-flex-pack: center;
           justify-content: center;
+  text-align: center;
 }
 
 .product-feature-section-feature {
@@ -110,8 +111,7 @@
 .product-feature-section-feature .fa {
   margin-right: 1.25rem;
   font-size: 2rem;
-  margin: auto; 
-  /**/
+  /*margin: auto;*/ 
 }
 
 @media print, screen and (min-width: 40em) {
