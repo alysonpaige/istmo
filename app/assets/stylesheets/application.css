@@ -26,8 +26,7 @@
     font-family: false;
 }
 
-/*footer - will need to move*/
-
+/*footer*/
 .marketing-site-footer {
   background: #2c3840;
   color: #8aa0ae;
@@ -114,5 +113,4 @@
     text-align: center;
   }
 }
-
 /*end footer*/
